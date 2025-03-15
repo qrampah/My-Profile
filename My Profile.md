@@ -21,6 +21,8 @@ Welcome to my Profile Summary repository! This README serves as a comprehensive 
   <li><strong>Machine Learning:</strong> Predictive Modeling, Classification, Clustering, NLP</li>
   <li><strong>Data Management:</strong> ETL Processes, Data Warehousing, Data Mining, CRM Systems (Airtable)</li>
   <li><strong>Project Management:</strong> Agile (Scrum, Kanban), Jira, Asana, Risk Management</li>
+  <li><strong>Data Cleaning & Preparation:</strong> Excel, Python (Pandas), SQL</li>
+  <li><strong>Advanced Excel:</strong> Pivot Tables, VLOOKUP, Macros, Data Validation</li>
 </ul>
 
 <h2>Key Projects</h2>
@@ -29,6 +31,14 @@ Welcome to my Profile Summary repository! This README serves as a comprehensive 
   <li><strong>Customer Segmentation:</strong> Utilized Tableau to identify 6 distinct customer clusters, enabling targeted marketing strategies.</li>
   <li><strong>WPI Library BI Solutions:</strong> Designed interactive dashboards and ETL pipelines, improving data accuracy by 95% and reducing processing time by 40%.</li>
   <li><strong>MovieLens 1M Analysis:</strong> Analyzed demographic influences on movie preferences using Python, providing actionable insights for personalized media experiences.</li>
+  <li><strong>Sales Data Analysis:</strong> 
+    <ul>
+      <li>Analyzed a large sales dataset to identify trends, top-performing products, and customer buying patterns.</li>
+      <li>Cleaned and preprocessed data using Python (Pandas) and SQL, ensuring 100% data accuracy.</li>
+      <li>Created interactive dashboards in Tableau to visualize sales performance, regional trends, and customer demographics.</li>
+      <li>Provided actionable insights that led to a 12% increase in sales revenue by optimizing product placement and marketing strategies.</li>
+    </ul>
+  </li>
 </ul>
 
 <h2>Professional Experience</h2>
